@@ -12,6 +12,7 @@ Groups, guilds, peoples and noble houses.
 
 ## Factions & Peoples
 - [[Spirits]]
+- [[Alluara]] — The water gnomes, who split from the Inseore to keep their inventions
 - [[Brussaer]] — Forefront of arcane studies in Saers
 - [[Dawn of the Midnight Sun]] — Cultist group with inscrutable goals
 - [[Fatebinders]]

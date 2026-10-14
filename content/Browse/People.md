@@ -47,6 +47,8 @@ Everyone the party has met or heard of.
 ## Hjirolis
 - [[Aoran Aurelius]] — Archon of Ceropolis and lover of indulgement and arts
 - [[Autokrator Uluros IX]] — The current Autokrator of Hjirolis
+- [[Cyphus Orreni]] — A wandering son of the Orreni family, searching for his missing cousin
+- [[Graveltooth]] — Cyphus Orreni's bugbear guard
 - [[Othenios Vyrik]]
 
 ## Inseore Gnomes
@@ -62,6 +64,7 @@ Everyone the party has met or heard of.
 
 ## Infernals
 - [[Arranos]] — Monk working for infernals
+- [[Bip]] — An imp, advisor to Murhz'egellaghorighhtz
 - [[Murhz’egellaghorighhtz]] — Dealer of souls, merchant king of the hells
 - [[Zanangathor]] — War-loving leader of the shimmerwyld invasion
 

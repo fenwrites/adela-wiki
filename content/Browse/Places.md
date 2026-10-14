@@ -44,7 +44,9 @@ Everywhere the party has been or heard of.
 - [[Ankarnassas]] — Capitol of Hjir nestled in mountain foothills and built on the lakeside ruins of ancient civilization
 - [[Ceropolis]] — Thriving port-adjacent center of agriculture and trade in Hjir
 - [[Hasitoppe]] — Ancient and obstinate civilization of the dwarves
+- [[Loxos]] — A town in Hjirolis, governed by Archon Leagro Manilis
 - [[Oranos]] — An agricultural community that sees political deals due to its proximity to Ankarnassas
 - [[Pelethra]] — A small port-city that acts as access to ceropolis and the Hjirolis interior
 - [[Tollen Boundary]] — A north-eastern frontier town beset upon by cultists
+- [[Topetki]] — A sprawling farming town in Hjirolis near the Orreni lands
 - [[Wardensport]] — A port-city of saers
