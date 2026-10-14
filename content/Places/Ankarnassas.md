@@ -12,37 +12,41 @@ publish: true
 Overview
 
 Location: Northern [[Hjirolis]], at the foot of the [[Leukotichos]] Mountains
-Est. Population: 450,000
+Est. Population: 350,000
 Government Type: Seat of [[Autokrator Uluros IX]]
 Primary Exports: Stone, Magic, Religion
 
 
 
 
-Note: Rich ppl look down on wood homes, call them 'Wicks' (Their houses would burn)
 
 - The water in the lake is lower than it has been historically, and in fact slowly decreasing steadily
-- There's a marathon that runs around the lake. In celebration they are holding an extra-special one, with the winner receiving untold wealth and a blessing from the Divine's (Head of church?). During the marathon is one of the few times that the grounds of the Order Church are open to the public.
+- There's a marathon that runs around the lake. In celebration they are holding an extra-special one, with the winner receiving untold wealth and a blessing from the Divine. During the marathon is one of the few times that the grounds of the Order Church are open to the public.
 - 
 
-Districts and Neighbourhoods
+## Districts
+![[Ankarnassas Map.jpg]]
 
-# Telikos
+Ankarnassas is divided into seven holy districts. Elikos sits on the east side of Lake Atmos and Ankar lies along its shore; below them, five *themata* (cantons, written "Th.") step down the mountainside: Ena, Dio, Tria, Tessra and Pende. The Atmos River runs down through the lower cantons, and the North Pass leads out into the mountains. The city's motto is *Aionia Taxi*, "Eternal Order".
+
+### Elikos
 - Throne of Ordonnance
 - Opal Palace
-- Dikastirio (Highest Court)
+- Dikastirio (the High Court)
 - Ordinis Domos
-- Lyceum of Alcion
+- Lyceum of Alcion (university)
 - Stonerest
-# Ankar
-- Pyles ('pie-lees', Gates of Order)
-- Cenestro (Central and Largest Amphitheater)
-- Bath Quarter
+
+### Ankar
+- Pyles ("pie-lees", the Gates of Order)
+- Cenestro ("the Amps"), the central and largest amphitheatre
+- Baths Quarter
 - South Hall
 - Central
 - The Docks
-- The Reach (easternmost outcropping of Limestone)
-# Ena
+- The Reach
+
+### Thema Ena
 - Apoto Hill
 - Pinewalk
 - Merchant's Row
@@ -50,51 +54,25 @@ Districts and Neighbourhoods
 - Near Atmos
 - Far Atmos
 
-Dio
-
+### Thema Dio
 - Colosseum
 - Riverbed
 - Westmarket
-- Alomanus Dio
+- Alomanus Dia
 
-Tria
-- The Flats
-- Golden (originally called the Gold Bend, merchant area around river bend)
-- Choros
+### Thema Tria
 - Alomanus Tria
 - Hilltop
+- Golden (originally the Gold Bend, a merchant area around the river bend)
+- Choros
+- The Flats
 
-Tessra
+### Thema Tessra
 - Valleyhome
 - The Rises (Northrise and Southrise)
 - Low Pass
-- Iasipi (The Muds)
+- Iasipi (the Muds)
 
-Pende
-- The Wicks
+### Thema Pende
+- The Wicks (wealthier folk sneer at these wooden homes as "wicks", since they'd burn)
 - Shade Valley
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

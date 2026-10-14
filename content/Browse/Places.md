@@ -35,7 +35,7 @@ Everywhere the party has been or heard of.
 
 ## Landmarks
 - [[Arshanta's Grove]] — Mythical center of the Shimmerwyld that is seemingly impossible to find
-- [[Leukotichos]]
+- [[Leukotichos]] — A mountain range in northern Hjirolis, just north of Ankarnassas
 - [[Orronoké]] — A supervolcano and important cultural homeland of the Naltese peoples
 - [[Shimmerwyld]] — A massive magical forest filled with all manner of creatures and spirits
 

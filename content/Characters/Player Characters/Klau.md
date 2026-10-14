@@ -6,6 +6,8 @@ publish: true
 
 #player_character
 
+Full name Sterling Starlight III, son of [[Sterling Starlight II]], though he goes by Klau.
+
 
 [[Brussaer]]
 [[Orlean Vetiver]]

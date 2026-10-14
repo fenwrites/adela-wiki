@@ -28,7 +28,7 @@ Everyone the party has met or heard of.
 - [[Nadra]]
 - [[Siobhan Hearth]] — Expert merchant brought in to deal with the Green Death frontier
 - [[Sorhan Malikan]] — Founder of Primon Boundary, effective leader of yore
-- [[Sterling Silver]] — Serious, troubled, and distant father to Klau
+- [[Sterling Starlight II]] — Serious, troubled, and distant father to Klau
 - [[Waylan Wiles]] — Hard-working researcher in Primon Boundary that feels out of their depth
 
 ## Saers
@@ -67,7 +67,7 @@ Everyone the party has met or heard of.
 
 ## Other Notable Figures
 - [[Argus Cooky]] — Well-loved travelling chef
-- [[Malikan]]
+- [[Malikan]] — The great emerald dragon of dragonborn legend
 - [[Nettalytyn Nyx]] — Mysterious but powerful traveller and spirit-user
 - [[Odd Job]] — Direct mercenary who is good at her job
 - [[Ralof and Bjor]] — Father and son duo emigrating to Saers from Hjirolis that ran afoul of cultists

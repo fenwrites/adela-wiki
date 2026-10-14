@@ -31,3 +31,9 @@ Chronicle Keeper: [[Klau]] Starlight
 Our story begins 1,200 years ago...Cormac of the Village (the village is not named, basically to show that the dragonborn were nomads and settlements did not last long)...Cormac wished to unite the Dragonborn under one banner...Cormac believed himself to the descendent of the great dragon, [[Malikan]] the Magnificent...He climbed to the highest peak of the Jagged Talon Range which took him two weeks...Malikan was amused at the small creature so he set him a set of chalenges..."Move my claw and show me your strength" He flicked off the top of a stalagmite and buried his claw in the stone.
 
 In [[the Chronicle]], there are two footnotes on '1,200 years ago' (1,189), and on 'two weeks' ('Only 6 days and nights actually, but a fortnight does sound a lot better'). 
+
+## Origin
+[[Klau]] found the Chronicle on a high shelf at Bert's Books in [[Wardensport]], where a brownie spirit named Stealy Git watches over the stock. Bert sold it to him for ten gold, surprised that anyone had noticed it at all.
+
+## The Legend of Malikan, continued
+Malikan, an emerald dragon, made Cormac wait until his rations ran out, then found him meditating and invited him into a hoard of gems. *"All dragons have a great hoard. Do you?"* Cormac answered that he could, and asked a favour: a brass spear, oxidised to a beautiful green patina. Then he left the cave, unclipped his prized green cloak embroidered with an emerald dragon and the words "Our Breaths United", climbed to the peak, and in the morning buried his spear and claimed the entire land. Malikan said: *"You have given me much to ponder, that is a gift itself. Go and rest, and I will find you again soon."*

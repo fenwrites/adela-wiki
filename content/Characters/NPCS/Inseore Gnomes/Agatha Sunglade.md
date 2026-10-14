@@ -8,7 +8,7 @@ publish: true
 
 
 ## Appearance and Quirks
-Agatha is a middle-aged forest gnome with dark greenish-brown skin, shoulder-length red hair, and hazel eyes. She is average height for a dwarf, and is often wearing a simple sundress and sunhat, with a few pouches and whatnot tied to it.
+Agatha is a middle-aged forest gnome with dark greenish-brown skin, shoulder-length red hair, and hazel eyes. She is average height for a gnome, and is often wearing a simple sundress and sunhat, with a few pouches and whatnot tied to it.
 ## Summary
 Agatha Sunglade is a **settlement leader** operating out of [[Sunglade]]. She is young for a glade warden, and pragmatic, often preferring action to the slow meandering of other gnomes. She is well-liked, though can be abrasive at times.
 ## Relationships

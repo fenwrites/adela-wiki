@@ -14,3 +14,6 @@ Cult Leader
 
 Human Female
 Black Robe with red stripe along the edge.
+
+## Activities and Rumours
+- She bore ZZ tattoos on both wrists, linked to [[Zanangathor]].
