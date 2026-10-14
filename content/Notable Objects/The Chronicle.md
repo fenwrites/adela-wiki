@@ -28,6 +28,6 @@ Contents of [[the Chronicle]]
 
 Chronicle Keeper: [[Klau]] Starlight
 
-Our story begins 1,200 years ago...Cormac of the Village (the village is not named, basically to show that the dragonborn were nomads and settlements did not last long)...Cormac wished to unite the Dragonborn under one banner...Cormac believed himself to the descendent of the great dragon, Malikan the Magnificent...He climbed to the highest peak of the Jagged Talon Range which took him two weeks...Malikan was amused at the small creature so he set him a set of chalenges..."Move my claw and show me your strength" He flicked off the top of a stalagmite and buried his claw in the stone.
+Our story begins 1,200 years ago...Cormac of the Village (the village is not named, basically to show that the dragonborn were nomads and settlements did not last long)...Cormac wished to unite the Dragonborn under one banner...Cormac believed himself to the descendent of the great dragon, [[Malikan]] the Magnificent...He climbed to the highest peak of the Jagged Talon Range which took him two weeks...Malikan was amused at the small creature so he set him a set of chalenges..."Move my claw and show me your strength" He flicked off the top of a stalagmite and buried his claw in the stone.
 
 In [[the Chronicle]], there are two footnotes on '1,200 years ago' (1,189), and on 'two weeks' ('Only 6 days and nights actually, but a fortnight does sound a lot better'). 

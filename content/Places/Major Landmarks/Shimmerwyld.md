@@ -23,7 +23,7 @@ The [[Shimmerwyld]]
 
 
 Overview:
-The [[Shimmerwyld]] is a vast, enchanted forest at the heart of the continent [[Nosovae]]. Its dense canopy and sprawling undergrowth [[shimmer]] with an ever-present magical aura, giving the region its name. Known for its unique flora, fauna, and chaotic magic, the [[Shimmerwyld]] has long been a place of both wonder and peril. Though its reach has been pushed back over centuries by expanding civilizations, the forest remains a formidable and untamed wilderness.
+The [[Shimmerwyld]] is a vast, enchanted forest at the heart of the continent [[Nosovae]]. Its dense canopy and sprawling undergrowth shimmer with an ever-present magical aura, giving the region its name. Known for its unique flora, fauna, and chaotic magic, the [[Shimmerwyld]] has long been a place of both wonder and peril. Though its reach has been pushed back over centuries by expanding civilizations, the forest remains a formidable and untamed wilderness.
 
 
 Common Knowledge:
@@ -52,7 +52,7 @@ The [[Shimmerwyld]] remains an enigmatic and perilous region, holding ancient se
 
 
 Common Tree Species in the [[Shimmerwyld]]: The [[Shimmerwyld]] hosts a diverse array of magical and mundane tree species, including: (Will change this)
-Glimmerwood Trees: Tall, silver-barked trees with leaves that [[shimmer]] faintly in moonlight, often used for enchanted woodcraft.
+Glimmerwood Trees: Tall, silver-barked trees with leaves that shimmer faintly in moonlight, often used for enchanted woodcraft.
 Umbral Pines: Dark-needled conifers that absorb light, making them ideal for stealth enchantments.
 Verdant Wyrmbarks: Massive, gnarled trees with serpentine roots, believed to be infused with draconic magic.
 Aurora Birches: White-barked birch trees whose leaves glow with shifting colors at dusk.

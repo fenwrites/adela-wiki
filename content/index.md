@@ -21,6 +21,7 @@ Welcome to the player wiki for our campaign in the world of [[Adela]]. Everythin
 After three months of travelling, fighting, and dealing with conflicts beyond anything they could have imagined, the party has reached [[Ankarnassas]].
 
 ## Explore
+- [[Ucaro and Nosovae|World map]] — the continent of Ucaro and Nosovae
 - [[People]] — everyone you've met or heard of
 - [[Places]] — everywhere you've been or heard of
 - [[Factions]] — groups, guilds, peoples and noble houses

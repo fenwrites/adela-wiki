@@ -8,6 +8,7 @@ Everywhere the party has been or heard of.
 - [[Adela]] — The entire world
 - [[Nosovae]] — The northern landmass twin of Ucaro, one half of the continent
 - [[Ucaro]] — The southern landmass twin of Nosovae, one half of the continent
+- [[Ucaro and Nosovae]] — The continent formed by the twin landmasses of Ucaro and Nosovae
 
 ## The Sky
 - [[Astera]] — Moon
