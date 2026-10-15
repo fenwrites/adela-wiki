@@ -2,6 +2,14 @@
 description: thriving port-adjacent center of agriculture and trade in Hjir
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | City |
+> | **Region** | [[Hjirolis]] |
+> | **Ruler** | [[Aoran Aurelius]] |
+
 *Thriving port-adjacent center of agriculture and trade in Hjir*
 
 #town 

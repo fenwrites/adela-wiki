@@ -2,6 +2,18 @@
 description: opportunistic order loving civilization of humans
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Nation |
+> | **Region** | [[Nosovae]] |
+> | **Capital** | [[Ankarnassas]] |
+> | **Population** | ~1,000,000 |
+> | **Government** | Autocracy |
+> | **Ruler** | [[Autokrator Uluros IX]] |
+> | **Peoples** | Humans (Hjirrans, Sjuvven) |
+
 *Opportunistic order loving civilization of humans*
 
 #nation

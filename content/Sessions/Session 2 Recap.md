@@ -2,6 +2,12 @@
 description: The eve of the Choosing, and its first exams
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 2 |
+
 *The eve of the Choosing, and its first exams*
 
 # Recap

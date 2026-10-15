@@ -2,6 +2,13 @@
 description: deceptive cultist
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Status** | Dead |
+
 *Deceptive cultist*
 
 #npc 

@@ -3,6 +3,13 @@ date: 2025-05-09
 description: Nettle, the evacuation, and a voice in the Chronicle
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 14 |
+> | **Date** | 2025-05-09 |
+
 *Nettle, the evacuation, and a voice in the Chronicle*
 
 ## Recap

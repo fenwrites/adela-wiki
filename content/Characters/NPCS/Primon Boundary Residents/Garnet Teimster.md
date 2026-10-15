@@ -2,6 +2,13 @@
 description: ambitious young lady trying to learn mercantilism
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Tiefling |
+> | **Based in** | [[Ceropolis]] |
+
 *Ambitious young lady trying to learn mercantilism*
 
 #npc

@@ -2,6 +2,13 @@
 description: cultist group with inscrutable goals
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Faction |
+> | **Kind** | Cult |
+> | **Members** | Mixed |
+
 *Cultist group with inscrutable goals*
 
 #faction 

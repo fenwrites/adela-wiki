@@ -2,6 +2,13 @@
 description: shrewd but fair Justice of Saers
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Halfling |
+> | **Based in** | [[Saers (City)]] |
+
 *Shrewd but fair Justice of Saers*
 
 #npc 

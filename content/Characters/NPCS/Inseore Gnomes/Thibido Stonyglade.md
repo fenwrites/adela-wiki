@@ -2,6 +2,13 @@
 description: eccentric inventory of the gnomes and father to Illesara
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Eccentric inventory of the gnomes and father to Illesara*
 
 #npc

@@ -4,6 +4,16 @@ tags:
 description: archon of Ceropolis and lover of indulgement and arts
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Role** | Archon |
+> | **Status** | Alive |
+> | **Based in** | [[Ceropolis]] |
+> | **Affiliations** | [[Hjirolis]] |
+
 *Archon of Ceropolis and lover of indulgement and arts*
 
 

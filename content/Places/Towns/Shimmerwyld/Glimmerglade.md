@@ -2,6 +2,16 @@
 description: a quiet and peaceful gnome grove
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Gnome glade |
+> | **Region** | [[Shimmerwyld]] |
+> | **Population** | 36 |
+> | **Ruler** | [[Florence Glimmerglade]] |
+> | **Peoples** | [[Inseore Gnomes]] |
+
 *A quiet and peaceful gnome grove*
 
 

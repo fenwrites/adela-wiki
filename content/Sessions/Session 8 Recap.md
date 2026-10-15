@@ -2,6 +2,12 @@
 description: Harpies, Arranos, and the Divine of History
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 8 |
+
 *Harpies, Arranos, and the Divine of History*
 
 

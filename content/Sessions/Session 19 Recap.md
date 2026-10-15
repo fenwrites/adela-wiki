@@ -2,6 +2,12 @@
 description: Ezolio's deceit, the Fatebinder, and travel
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 19 |
+
 *Ezolio's deceit, the Fatebinder, and travel*
 
 

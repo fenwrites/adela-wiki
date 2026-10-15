@@ -2,6 +2,12 @@
 description: Rami's escape, and the story of the Shimmerwyld
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 13 |
+
 *Rami's escape, and the story of the Shimmerwyld*
 
 ## Recap

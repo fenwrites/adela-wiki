@@ -2,6 +2,12 @@
 description: Letters from home, and arrival in Oranos
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 20 |
+
 *Letters from home, and arrival in Oranos*
 
 ## Recap

@@ -2,6 +2,12 @@
 description: an imp, advisor to Murhz'egellaghorighhtz
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Fiend |
+
 *An imp, advisor to Murhz'egellaghorighhtz*
 
 ## Summary

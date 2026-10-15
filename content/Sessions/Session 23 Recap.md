@@ -2,6 +2,12 @@
 description: Arrival in Ankarnassas
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 23 |
+
 *Arrival in Ankarnassas*
 
 

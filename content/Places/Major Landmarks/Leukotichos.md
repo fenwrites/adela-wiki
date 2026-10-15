@@ -2,6 +2,13 @@
 description: a mountain range in northern Hjirolis, just north of Ankarnassas
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Mountain range |
+> | **Region** | [[Hjirolis]] |
+
 *A mountain range in northern Hjirolis, just north of Ankarnassas*
 
 Mountain range in northern [[Hjirolis]]

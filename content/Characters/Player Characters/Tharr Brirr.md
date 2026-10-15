@@ -2,6 +2,12 @@
 description: intense man in battle for his own soul
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Player Character |
+> | **Race** | Bugbear |
+
 *Intense man in battle for his own soul*
 
 #player_character 

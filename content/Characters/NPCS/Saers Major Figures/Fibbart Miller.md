@@ -2,6 +2,13 @@
 description: drug- and fun-loving surprisingly competent diplomat
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Based in** | [[Hjirolis]] |
+
 *Drug- and fun-loving surprisingly competent diplomat*
 
 #npc

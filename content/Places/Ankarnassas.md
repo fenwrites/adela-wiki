@@ -2,6 +2,15 @@
 description: capitol of Hjir nestled in mountain foothills and built on the lakeside ruins of ancient civilization
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Capital city |
+> | **Region** | [[Hjirolis]] |
+> | **Population** | 350,000 |
+> | **Ruler** | [[Autokrator Uluros IX]] |
+
 *Capitol of Hjir nestled in mountain foothills and built on the lakeside ruins of ancient civilization*
 
 #town 

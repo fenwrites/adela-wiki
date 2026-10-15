@@ -2,6 +2,12 @@
 description: ostentatious man figuring out his own story
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Player Character |
+> | **Race** | Dragonborn |
+
 *Ostentatious man figuring out his own story*
 
 #player_character

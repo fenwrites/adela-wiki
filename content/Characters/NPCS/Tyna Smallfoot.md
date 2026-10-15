@@ -2,6 +2,13 @@
 description: travelling and friendly halfling masking their importance
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Halfling |
+> | **Based in** | [[Miskral]] |
+
 *Travelling and friendly halfling masking their importance*
 
 #npc

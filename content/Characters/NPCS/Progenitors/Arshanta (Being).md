@@ -4,6 +4,13 @@ tags:
 description: embodiment of nature
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | God |
+> | **Role** | Legendary being |
+
 *Embodiment of nature*
 
 

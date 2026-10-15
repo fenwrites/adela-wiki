@@ -2,6 +2,13 @@
 description: young leader trying to live up to his family legacy
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Dragonborn |
+> | **Based in** | [[Primon Boundary]] |
+
 *Young leader trying to live up to his family legacy*
 
 #npc 

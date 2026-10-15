@@ -2,6 +2,12 @@
 description: The Orreni
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 17 |
+
 *The Orreni*
 
 

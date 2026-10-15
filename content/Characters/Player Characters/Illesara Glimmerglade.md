@@ -2,6 +2,12 @@
 description: standoffish girl guided by magic and fey
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Player Character |
+> | **Race** | Gnome |
+
 *Standoffish girl guided by magic and fey*
 
 #player_character

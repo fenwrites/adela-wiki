@@ -2,6 +2,12 @@
 description: Escorting the gnomes through the Shimmerwyld
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 15 |
+
 *Escorting the gnomes through the Shimmerwyld*
 
 ## Recap

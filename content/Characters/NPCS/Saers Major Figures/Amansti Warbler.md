@@ -4,6 +4,16 @@ tags:
 description: neutral-toned cleric to Community
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Dragonborn |
+> | **Role** | Priest of Community |
+> | **Status** | Alive |
+> | **Based in** | [[Saers (City)]] |
+> | **Affiliations** | [[Divine of Community]], [[Saers]] |
+
 *Neutral-toned cleric to Community*
 
 

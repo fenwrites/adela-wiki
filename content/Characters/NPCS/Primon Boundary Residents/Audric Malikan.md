@@ -4,6 +4,16 @@ tags:
 description: traditional and honourable leader of primon boundary
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Dragonborn |
+> | **Role** | Settlement leader |
+> | **Status** | Injured |
+> | **Based in** | [[Primon Boundary]] |
+> | **Affiliations** | [[Saers]] |
+
 *Traditional and honourable leader of primon boundary*
 
 

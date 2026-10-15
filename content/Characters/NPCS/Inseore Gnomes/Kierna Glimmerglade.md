@@ -2,6 +2,13 @@
 description: carpenter and aspiring trader of the glimmerglade
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Carpenter and aspiring trader of the glimmerglade*
 
 carpenter

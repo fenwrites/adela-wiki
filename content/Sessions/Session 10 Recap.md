@@ -2,6 +2,12 @@
 description: The Inseore gnomes of the Glimmerglade
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 10 |
+
 *The Inseore gnomes of the Glimmerglade*
 
 

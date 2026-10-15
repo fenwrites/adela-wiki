@@ -2,6 +2,13 @@
 description: elderly, wise, and mystical matriarch of the Naltese
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Bugbear |
+> | **Based in** | [[Primon Boundary]] |
+
 *Elderly, wise, and mystical matriarch of the Naltese*
 
 #npc

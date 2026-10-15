@@ -2,6 +2,12 @@
 description: Last preparations before the Shimmerwyld
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 3 |
+
 *Last preparations before the Shimmerwyld*
 
 ## Recap

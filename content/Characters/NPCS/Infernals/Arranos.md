@@ -4,6 +4,14 @@ tags:
 description: monk working for infernals
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Role** | Infernal agent |
+> | **Based in** | [[Hjirolis]] |
+
 *Monk working for infernals*
 
 

@@ -2,6 +2,13 @@
 description: ancient ruin of 'silence' and site of a fight between cultists and the party
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Ancient ruin |
+> | **Region** | [[Shimmerwyld]] |
+
 *Ancient ruin of 'silence' and site of a fight between cultists and the party*
 
 [[Shimmerwyld]]

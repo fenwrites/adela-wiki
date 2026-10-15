@@ -2,6 +2,12 @@
 description: shape-changing and flamboyant spy for Saers
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Based in** | [[Oranos]] |
+
 *Shape-changing and flamboyant spy for Saers*
 
 [[The Party]]

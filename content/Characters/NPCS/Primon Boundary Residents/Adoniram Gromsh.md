@@ -4,6 +4,16 @@ tags:
 description: missionary to Divine of Growth and general grump
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Dwarf |
+> | **Role** | Priest of Growth |
+> | **Status** | Alive |
+> | **Based in** | [[Primon Boundary]] |
+> | **Affiliations** | [[Divine of Growth]], [[Saers]] |
+
 *Missionary to Divine of Growth and general grump*
 
 

@@ -4,6 +4,16 @@ tags:
 description: pragmatic leader of the Sunglade
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Role** | Settlement leader |
+> | **Status** | Alive |
+> | **Based in** | [[Sunglade]] |
+> | **Affiliations** | [[Inseore Gnomes]] |
+
 *Pragmatic leader of the Sunglade*
 
 

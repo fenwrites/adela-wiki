@@ -2,6 +2,12 @@
 description: Spore zombies, a dying boy, and a mission to Hjirolis
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 5 |
+
 *Spore zombies, a dying boy, and a mission to Hjirolis*
 
 ## Recap

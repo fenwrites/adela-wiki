@@ -2,6 +2,12 @@
 description: righteous venerable and intense and soldier for some higher power
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Celestial |
+
 *Righteous venerable and intense and soldier for some higher power*
 
 #npc 

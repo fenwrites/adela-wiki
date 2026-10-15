@@ -2,6 +2,14 @@
 description: a town in Hjirolis, governed by Archon Leagro Manilis
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Town |
+> | **Region** | [[Hjirolis]] |
+> | **Ruler** | Leagro Manilis |
+
 *A town in Hjirolis, governed by Archon Leagro Manilis*
 
 A town in [[Hjirolis]] governed by Archon Leagro Manilis.

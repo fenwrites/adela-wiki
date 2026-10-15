@@ -2,6 +2,12 @@
 description: Into the eastern Shimmerwyld; meeting Illesara
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 9 |
+
 *Into the eastern Shimmerwyld; meeting Illesara*
 
 

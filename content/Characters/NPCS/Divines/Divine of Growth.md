@@ -1,6 +1,16 @@
 ---
+aliases:
+  - The Boundless
+  - The Unbound
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Divine |
+> | **Domain** | Growth |
+> | **Also known as** | The Boundless, The Unbound |
+
 [[List of Divines]]
 
 ## Summary

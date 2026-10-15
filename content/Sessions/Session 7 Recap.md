@@ -2,6 +2,12 @@
 description: Across the sea to Ceropolis
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 7 |
+
 *Across the sea to Ceropolis*
 
 ## Recap

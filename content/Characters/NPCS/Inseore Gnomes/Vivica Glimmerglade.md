@@ -2,6 +2,13 @@
 description: apothecarist of the glimmerglade
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Apothecarist of the glimmerglade*
 
 #npc 

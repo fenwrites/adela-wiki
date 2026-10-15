@@ -2,6 +2,12 @@
 description: The road to Wardensport
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 6 |
+
 *The road to Wardensport*
 
 ## Recap

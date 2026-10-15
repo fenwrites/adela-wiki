@@ -1,6 +1,16 @@
 ---
+aliases:
+  - Velesara
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Divine |
+> | **Domain** | Community |
+> | **Also known as** | Velesara |
+> | **Worshipped in** | [[Saers]] |
+
 #divine
 [[Velesara's Disappearance]]
 [[Saers]]

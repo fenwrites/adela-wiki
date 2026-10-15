@@ -2,6 +2,14 @@
 description: a frontier town along a river delta that has existed peacefully for decades
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Frontier town |
+> | **Region** | [[Saers]] |
+> | **Ruler** | [[Audric Malikan]] |
+
 *A frontier town along a river delta that has existed peacefully for decades*
 
 

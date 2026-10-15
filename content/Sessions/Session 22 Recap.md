@@ -2,6 +2,12 @@
 description: The harpy, Aromatica, and the road to Ankarnassas
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 22 |
+
 *The harpy, Aromatica, and the road to Ankarnassas*
 
 

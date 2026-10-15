@@ -2,6 +2,13 @@
 description: Cyphus Orreni's bugbear guard
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Bugbear |
+> | **Based in** | [[Orreni Family]] |
+
 *Cyphus Orreni's bugbear guard*
 
 ## Summary

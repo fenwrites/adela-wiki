@@ -2,6 +2,13 @@
 description: shrew businesswoman to be wed to expand a trading empire
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Dragonborn |
+> | **Based in** | [[Hjirolis]] |
+
 *Shrew businesswoman to be wed to expand a trading empire*
 
 #npc 

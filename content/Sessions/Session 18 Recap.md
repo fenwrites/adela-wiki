@@ -2,6 +2,12 @@
 description: The Four Ezolios
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 18 |
+
 *The Four Ezolios*
 
 

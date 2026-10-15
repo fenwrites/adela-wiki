@@ -4,6 +4,16 @@ tags:
 description: well-loved travelling chef
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Orc |
+> | **Role** | Ship cook |
+> | **Status** | Alive |
+> | **Based in** | HES Longsail |
+> | **Affiliations** | [[Saers]] |
+
 *Well-loved travelling chef*
 
 

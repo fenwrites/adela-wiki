@@ -2,6 +2,12 @@
 description: Back in Primon Boundary as adults; the summit and Pollard Farms
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 4 |
+
 *Back in Primon Boundary as adults; the summit and Pollard Farms*
 
 ## Recap

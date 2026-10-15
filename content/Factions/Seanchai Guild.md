@@ -2,6 +2,14 @@
 description: storytellers guild of saers
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Faction |
+> | **Kind** | Guild of storytellers |
+> | **Based in** | [[Saers]] |
+> | **Members** | Mixed |
+
 *Storytellers guild of saers*
 
 #faction 

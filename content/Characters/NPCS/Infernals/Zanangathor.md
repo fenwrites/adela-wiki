@@ -2,6 +2,13 @@
 description: war-loving leader of the shimmerwyld invasion
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Fiend |
+> | **Based in** | Damnation |
+
 *War-loving leader of the shimmerwyld invasion*
 
 ## Summary

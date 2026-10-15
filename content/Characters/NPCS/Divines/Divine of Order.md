@@ -3,6 +3,14 @@ aliases:
   - Apolus
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Divine |
+> | **Domain** | Order |
+> | **Also known as** | Apolus |
+> | **Worshipped in** | [[Hjirolis]] |
+
 #divine
 [[List of Divines]]
 

@@ -3,6 +3,13 @@ date: 2025-03-21
 description: The blight reaches the Glimmerglade
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 11 |
+> | **Date** | 2025-03-21 |
+
 *The blight reaches the Glimmerglade*
 
 ## Recap

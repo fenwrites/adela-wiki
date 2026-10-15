@@ -2,6 +2,13 @@
 description: magical book for two-way communication
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Object |
+> | **Kind** | Magical book |
+> | **Held by** | [[Klau]] |
+
 *Magical book for two-way communication*
 
 [[Klau]]

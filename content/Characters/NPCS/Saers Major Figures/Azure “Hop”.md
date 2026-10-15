@@ -2,6 +2,13 @@
 description: former pirate turned navy captain
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Tiefling |
+> | **Based in** | HES Longsail |
+
 *Former pirate turned navy captain*
 
 #npc 

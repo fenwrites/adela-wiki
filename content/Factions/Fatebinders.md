@@ -2,6 +2,13 @@
 description:
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Faction |
+> | **Kind** | Law-keepers and judges |
+> | **Based in** | [[Hjirolis]] |
+
 
 ## Overview
 The law-keepers and judges of [[Hjirolis]].

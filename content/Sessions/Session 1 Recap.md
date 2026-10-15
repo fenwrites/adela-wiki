@@ -2,6 +2,12 @@
 description: The Choosing comes to Primon Boundary
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 1 |
+
 *The Choosing comes to Primon Boundary*
 
 ## Recap

@@ -1,3 +1,58 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Summary box rendered by scripts/sync-vault.mjs as a `> [!infobox]` callout
+.callout[data-callout="infobox"] {
+  --color: var(--secondary);
+  --border: var(--lightgray);
+  --bg: var(--light);
+  float: right;
+  clear: right;
+  width: 18rem;
+  margin: 0 0 1rem 1.25rem;
+  padding: 0.25rem 0.75rem 0.5rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+
+  > .callout-title {
+    display: none;
+  }
+
+  .table-container {
+    margin: 0;
+  }
+
+  table {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+    font-size: 0.9rem;
+  }
+
+  thead {
+    display: none;
+  }
+
+  td {
+    padding: 0.3rem 0.25rem;
+    border-bottom: 1px solid var(--lightgray);
+    vertical-align: top;
+  }
+
+  tr:last-child td {
+    border-bottom: none;
+  }
+
+  td:first-child {
+    width: 38%;
+    color: var(--darkgray);
+    white-space: nowrap;
+  }
+
+  @media all and ($mobile) {
+    float: none;
+    width: auto;
+    margin: 0 0 1rem 0;
+  }
+}

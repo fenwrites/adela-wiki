@@ -2,6 +2,13 @@
 description: bumbling, nervous, but brave warrior of the glimmerglade. Dotty's protector
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Bumbling, nervous, but brave warrior of the glimmerglade. Dotty's protector*
 
 #npc 

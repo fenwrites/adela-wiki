@@ -2,6 +2,15 @@
 description:
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Faction |
+> | **Kind** | Noble family |
+> | **Based in** | [[Hjirolis]] |
+> | **Leader** | Dorameia Orreni |
+> | **Members** | Human |
+
 -Mikkos (Orreni steward)
 
 -Cyphus Orreni

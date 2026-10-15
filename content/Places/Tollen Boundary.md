@@ -2,6 +2,13 @@
 description: a north-eastern frontier town beset upon by cultists
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Frontier town |
+> | **Region** | [[Saers]] |
+
 *A north-eastern frontier town beset upon by cultists*
 
 #town

@@ -2,6 +2,13 @@
 description: a port-city of saers
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Port city |
+> | **Region** | [[Saers]] |
+
 *A port-city of saers*
 
 #town 

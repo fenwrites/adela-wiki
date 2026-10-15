@@ -2,6 +2,12 @@
 description: mysterious but powerful traveller and spirit-user
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Firbolg |
+
 *Mysterious but powerful traveller and spirit-user*
 
 #npc 

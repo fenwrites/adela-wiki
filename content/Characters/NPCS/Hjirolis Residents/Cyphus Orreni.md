@@ -2,6 +2,13 @@
 description: a wandering son of the Orreni family, searching for his missing cousin
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Based in** | [[Orreni Family]] |
+
 *A wandering son of the Orreni family, searching for his missing cousin*
 
 ## Summary

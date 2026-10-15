@@ -2,6 +2,13 @@
 description: a massive magical forest filled with all manner of creatures and spirits
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Magical forest |
+> | **Region** | [[Nosovae]] |
+
 *A massive magical forest filled with all manner of creatures and spirits*
 
 Related Locations

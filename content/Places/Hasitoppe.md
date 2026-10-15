@@ -2,6 +2,14 @@
 description: ancient and obstinate civilization of the dwarves
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Nation |
+> | **Region** | [[Ucaro]] |
+> | **Peoples** | Dwarves |
+
 *Ancient and obstinate civilization of the dwarves*
 
 

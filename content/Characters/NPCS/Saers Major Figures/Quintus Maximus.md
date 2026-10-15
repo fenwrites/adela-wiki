@@ -2,6 +2,13 @@
 description: mysterious traveller
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Based in** | [[Hjirolis]] |
+
 *Mysterious traveller*
 
 #npc 

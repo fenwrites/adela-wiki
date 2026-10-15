@@ -4,6 +4,16 @@ tags:
 description: serious but caring grove leader-in-training
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Role** | Guide and healer |
+> | **Status** | Alive |
+> | **Based in** | [[Sunglade]] |
+> | **Affiliations** | [[Inseore Gnomes]] |
+
 *Serious but caring grove leader-in-training*
 
 

@@ -2,6 +2,13 @@
 description: Shimmerwyld researcher for Saers' government
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Human |
+> | **Based in** | [[Saers (City)]] |
+
 *Shimmerwyld researcher for Saers' government*
 
 #npc 

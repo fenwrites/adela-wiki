@@ -3,6 +3,13 @@ date: 2025-04-04
 description: The fight at Almurbalarammi
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 12 |
+> | **Date** | 2025-04-04 |
+
 *The fight at Almurbalarammi*
 
 ## Recap

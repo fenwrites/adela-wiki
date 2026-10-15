@@ -131,7 +131,54 @@ const cleanFrontmatter = (text) => {
   })
   const fm = frontmatter(text)
   const lead = fm.description ? `*${fm.description[0].toUpperCase()}${fm.description.slice(1)}*\n\n` : ""
-  return `---\n${lines.join("\n")}\n---\n${lead}${text.slice(m[0].length)}`
+  return `---\n${lines.join("\n")}\n---\n${infobox(text)}${lead}${text.slice(m[0].length)}`
+}
+
+// ---- summary box, built from the note's frontmatter (only non-empty fields are shown)
+// list-aware frontmatter reader: `key: value` or `key:` followed by `  - item` lines
+function frontmatterFull(text) {
+  const m = text.match(/^---\r?\n([\s\S]*?)\r?\n---/)
+  const fm = {}
+  let last = null
+  if (m) for (const line of m[1].split(/\r?\n/)) {
+    const item = line.match(/^\s+-\s*(.*)$/)
+    const kv = line.match(/^([\w-]+):\s*(.*)$/)
+    const clean = (v) => v.trim().replace(/^["']|["']$/g, "")
+    if (item && last) (fm[last] = Array.isArray(fm[last]) ? fm[last] : []).push(clean(item[1]))
+    else if (kv) { last = kv[1]; fm[last] = clean(kv[2]) }
+  }
+  return fm
+}
+
+const TYPE_LABEL = { npc: "Character", player: "Player Character", divine: "Divine", location: "Place", city: "Place", nation: "Place",
+  faction: "Faction", event: "Event", object: "Object", recap: "Session", celestial: "Celestial Body" }
+const PLACE_KIND = { city: "City", nation: "Nation" }
+const BOX_FIELDS = {
+  "Character": [["race", "Race"], ["role", "Role"], ["status", "Status"], ["location", "Based in"], ["affiliations", "Affiliations"]],
+  "Player Character": [["race", "Race"], ["class", "Class"], ["location", "Hometown"]],
+  "Divine": [["domain", "Domain"], ["aliases", "Also known as"], ["worshipped", "Worshipped in"]],
+  "Place": [["kind", "Kind"], ["region", "Region"], ["capital", "Capital"], ["population", "Population"], ["government", "Government"], ["ruler", "Ruler"], ["peoples", "Peoples"]],
+  "Faction": [["kind", "Kind"], ["base", "Based in"], ["leader", "Leader"], ["race", "Members"]],
+  "Event": [["status", "Status"], ["location", "Location"], ["when", "When"]],
+  "Object": [["kind", "Kind"], ["holder", "Held by"], ["location", "Location"]],
+  "Session": [["session", "Session"], ["date", "Date"]],
+  "Celestial Body": [["kind", "Kind"]],
+}
+const EMPTY = new Set(["", "unknown", "none"])
+const capFirst = (s) => (/^\[\[/.test(s) ? s : s[0].toUpperCase() + s.slice(1))
+
+function infobox(text) {
+  const fm = frontmatterFull(text)
+  const type = TYPE_LABEL[String(fm.type ?? "").toLowerCase()]
+  if (!type) return ""
+  if (type === "Place" && !fm.kind && PLACE_KIND[fm.type]) fm.kind = PLACE_KIND[fm.type]
+  const rows = [["Type", fm.kind && type === "Place" ? "Place" : type]]
+  for (const [key, label] of BOX_FIELDS[type]) {
+    const vals = (Array.isArray(fm[key]) ? fm[key] : [fm[key]]).filter((v) => v && !EMPTY.has(String(v).toLowerCase()))
+    if (vals.length) rows.push([label, vals.map((v) => capFirst(String(v)).replace(/\[\[([^\]|]+)\|[^\]]*\]\]/g, "[[$1]]").replace(/\|/g, "/")).join(", ")])
+  }
+  if (rows.length < 2 && type !== "Session") return ""
+  return `> [!infobox]\n> | | |\n> |---|---|\n${rows.map(([k, v]) => `> | **${k}** | ${v} |`).join("\n")}\n\n`
 }
 
 for (const note of notes) {

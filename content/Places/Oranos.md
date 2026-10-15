@@ -2,6 +2,13 @@
 description: an agricultural community that sees political deals due to its proximity to Ankarnassas
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Town |
+> | **Region** | [[Hjirolis]] |
+
 *An agricultural community that sees political deals due to its proximity to Ankarnassas*
 
 [[Hjirolis]]

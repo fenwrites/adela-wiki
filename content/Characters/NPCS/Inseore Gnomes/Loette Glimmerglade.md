@@ -2,6 +2,13 @@
 description: kindly schoolteacher and mother to Illesara
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Kindly schoolteacher and mother to Illesara*
 
 #npc

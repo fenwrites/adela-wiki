@@ -2,6 +2,15 @@
 description: a gnome grove built high up in the trees
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Gnome glade |
+> | **Region** | [[Shimmerwyld]] |
+> | **Ruler** | [[Agatha Sunglade]] |
+> | **Peoples** | [[Inseore Gnomes]] |
+
 *A gnome grove built high up in the trees*
 
 

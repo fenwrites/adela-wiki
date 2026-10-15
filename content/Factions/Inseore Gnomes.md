@@ -2,6 +2,14 @@
 description: once-invaders of the Shimmerwyld turned nature-loving dwellers of the trees
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Faction |
+> | **Kind** | People |
+> | **Based in** | [[Shimmerwyld]] |
+> | **Members** | Gnomes |
+
 *Once-invaders of the Shimmerwyld turned nature-loving dwellers of the trees*
 
 #faction

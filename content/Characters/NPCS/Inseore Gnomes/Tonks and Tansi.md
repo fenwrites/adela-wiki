@@ -2,6 +2,13 @@
 description: young bakers whose family was saved from cultists by the party
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Young bakers whose family was saved from cultists by the party*
 
 #npc 

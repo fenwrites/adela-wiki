@@ -2,6 +2,12 @@
 description: Leaving the gnomes and learning of Order
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 16 |
+
 *Leaving the gnomes and learning of Order*
 
 

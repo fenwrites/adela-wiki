@@ -2,6 +2,13 @@
 description: elderly matriarch of the glimmerglade and storyteller of gnomes
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Character |
+> | **Race** | Gnome |
+> | **Based in** | [[Shimmerwyld]] |
+
 *Elderly matriarch of the glimmerglade and storyteller of gnomes*
 
 #npc

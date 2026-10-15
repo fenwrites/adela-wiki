@@ -2,6 +2,13 @@
 description: a small port-city that acts as access to ceropolis and the Hjirolis interior
 publish: true
 ---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Place |
+> | **Kind** | Port town |
+> | **Region** | [[Hjirolis]] |
+
 *A small port-city that acts as access to ceropolis and the Hjirolis interior*
 
 #town 
