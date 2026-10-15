@@ -7,15 +7,21 @@ publish: true
 > |---|---|
 > | **Type** | Character |
 > | **Race** | Human |
+> | **Role** | Royal researcher; head of Green Death research |
+> | **Status** | Alive |
 > | **Based in** | [[Saers (City)]] |
+> | **Affiliations** | The People's Coalition, [[Saers]] |
 
 *Shimmerwyld researcher for Saers' government*
 
 #npc 
 [[Saers]]
 
+## Appearance and Quirks
+Bald, tall and gangly; a bit of a strange man, and standoffish.
+
 ## Summary
-Augustus Fearly is the lead researcher studying the [[Green Death Blight|Green Death]], with [[Klau]] among his apprentices. He is a notable figure in [[Saers]] with Hjir ancestry.
+Augustus Fearly is a royal researcher of [[Saers]] and the lead researcher studying the [[Green Death Blight|Green Death]]. He was born in [[Hjirolis]] and rose quickly through the university in [[Ankarnassas]], until Saers poached him with a higher position and better pay.
 
 ## Activities and Rumours
 - At the summit in [[Primon Boundary]] he backed [[Orlean Vetiver]]'s call for a War Mantle.

@@ -14,3 +14,6 @@ publish: true
 #npc 
 [[Primon Boundary]]
 
+## Relationships
+- [[Glory Belle]]: her wife.
+- [[Garnet Teimster]]: their daughter. Both mothers are worried sick about her, now that she's in Hjirolis.

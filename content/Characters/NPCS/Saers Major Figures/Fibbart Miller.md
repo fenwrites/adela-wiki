@@ -7,7 +7,10 @@ publish: true
 > |---|---|
 > | **Type** | Character |
 > | **Race** | Human |
-> | **Based in** | [[Hjirolis]] |
+> | **Role** | Envoy of Saers |
+> | **Status** | Alive |
+> | **Based in** | [[Ceropolis]] |
+> | **Affiliations** | [[Augustus Fearly]], [[Saers]] |
 
 *Drug- and fun-loving surprisingly competent diplomat*
 
@@ -23,4 +26,4 @@ Fibbart is a messenger in [[Augustus Fearly]]'s employ who travelled with the pa
 
 ## Activities and Rumours
 - He presented the party to Archon [[Aoran Aurelius]] in [[Ceropolis]] with a chest of gemstones worth around 50,000 gold.
-- He stayed in Ceropolis to negotiate, hoping to set up a proper embassy, and has been a friend to [[Garnet Teimster|Garnet]] there.
+- He stayed in Ceropolis to negotiate, hoping to set up a proper embassy, and has been a friend to [[Garnet Teimster|Garnet]] there, after she turned down his first advances.
