@@ -11,3 +11,6 @@ publish: true
 
 *Forefront of arcane studies in Saers*
 
+
+## Notable Members
+- [[Orlean Vetiver]], faculty and board of directors

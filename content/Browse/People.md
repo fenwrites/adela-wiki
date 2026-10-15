@@ -14,6 +14,7 @@ Everyone the party has met or heard of.
 
 ## Primon Boundary
 - [[Adoniram Gromsh]] — Missionary to Divine of Growth and general grump
+- [[Anna Lee Hammersmak]] — Delrek's mother, who runs the Primon Inn
 - [[Audric Malikan]] — Traditional and honourable leader of primon boundary
 - [[Ayauheu]] — Ranger in Primon Boundary area
 - [[Cormac Malikan]] — Young leader trying to live up to his family legacy

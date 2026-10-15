@@ -15,7 +15,7 @@ publish: true
 [[Saers]]
 
 ## Summary
-Augustus Fearly is the lead researcher studying the [[Green Death Blight|Green Death]], with [[Klau]] and [[Waylan Wiles]] among his apprentices. He is a notable figure in [[Saers]] with Hjir ancestry.
+Augustus Fearly is the lead researcher studying the [[Green Death Blight|Green Death]], with [[Klau]] among his apprentices. He is a notable figure in [[Saers]] with Hjir ancestry.
 
 ## Activities and Rumours
 - At the summit in [[Primon Boundary]] he backed [[Orlean Vetiver]]'s call for a War Mantle.
