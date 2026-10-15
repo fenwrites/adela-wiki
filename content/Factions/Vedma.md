@@ -13,3 +13,6 @@ publish: true
 
 
 A [[Vedma]] is a witch/warlock. 
+
+## What the Party Knows
+- At the [[Orreni Family|Orreni]] estate library, [[Mona]] learned that the term Vedma is associated with certain magical practitioners in [[Ors]], on the east coast.
