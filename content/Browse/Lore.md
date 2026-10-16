@@ -11,18 +11,31 @@ Divines, powers, events and notable objects.
 ## Divines
 - [[List of Divines]]
 - [[Divine of Arts]]
+- [[Divine of Balance]]
 - [[Divine of Chaos]]
 - [[Divine of Community]]
+- [[Divine of Craft]]
 - [[Divine of Currents]]
-- [[Divine of Fertility]]
+- [[Divine of Death]]
+- [[Divine of Deceit]]
+- [[Divine of Dreams]]
 - [[Divine of Gold]]
 - [[Divine of Growth]]
 - [[Divine of History]]
+- [[Divine of Knowledge]]
+- [[Divine of Love]]
 - [[Divine of Luck]]
 - [[Divine of Mercy]]
 - [[Divine of Order]]
+- [[Divine of Rabbits]]
+- [[Divine of Rhythm]]
 - [[Divine of Stories]]
-- [[Divine of War]]
+- [[Divine of the Hunt]]
+- [[Divine of the Sea]]
+- [[Divine of the Wild]]
+- [[Divine of Violence]]
+- [[Divine of Warfare]]
+- [[Divine of Winter]]
 
 ## Major Events
 - [[Arshanta's Comet]] — Piece of a god that brought nature to Adela
@@ -31,6 +44,8 @@ Divines, powers, events and notable objects.
 - [[Hjir and Sjuvven Tensions]] — The once subjugated Sjuvven people gained their independence from Hjir, but decades later tensions remain
 - [[Infernal In the Shimmerwyld]] — Fiends and other creatures from the hells appear to be trying to gain access to the shimmerwyld
 - [[Velesara's Disappearance]] — Divine leader of Saers has been absent since the green death blight has appeared
+- [[Void Night]] — The starless night that divides the ten months of the year
+- [[Xegora's Contact from the Motherland]] — Rumors of action in the usually quiet elven homeland
 
 ## Notable Objects
 - [[The Chronicle]] — Magical book for two-way communication

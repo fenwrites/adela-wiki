@@ -18,3 +18,8 @@ publish: true
 [[Saers Mercantile Guild]]
 [[Brussaer]]
 [[Primon Boundary]]
+
+## Injuries
+- Permanent scarring on his leg and a noticeable limp (−5 ft movement speed), from falling unconscious three times in one fight. Dotty implied it would take years of medical treatment, or a powerful healing spell, to fix.
+
+

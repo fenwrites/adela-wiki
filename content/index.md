@@ -27,3 +27,4 @@ After three months of travelling, fighting, and dealing with conflicts beyond an
 - [[Factions]] — groups, guilds, peoples and noble houses
 - [[Lore]] — Divines, powers, events and notable objects
 - [[Session Log]] — what happened, session by session
+- [[House Rules]] — gritty realism and other table rules

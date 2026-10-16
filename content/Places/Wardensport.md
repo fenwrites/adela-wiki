@@ -8,6 +8,10 @@ publish: true
 > | **Type** | Place |
 > | **Kind** | Port city |
 > | **Region** | [[Saers]] |
+> | **Population** | 5,000 |
+> | **Government** | Duchy |
+> | **Ruler** | Alen Tudik |
+> | **Peoples** | Cosmopolitan |
 
 *A port-city of saers*
 

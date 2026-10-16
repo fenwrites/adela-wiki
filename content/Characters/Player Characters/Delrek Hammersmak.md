@@ -19,3 +19,8 @@ publish: true
 [[Divine of Growth]]
 [[Klau]]
 [[Adoniram Gromsh]]
+
+## Injuries
+- A persistent cough (−1 Stealth), from falling unconscious three times in one fight. Dotty implied it would take years of medical treatment, or a powerful healing spell, to fix.
+
+

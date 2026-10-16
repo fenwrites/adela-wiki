@@ -9,6 +9,7 @@ publish: true
 > | **Kind** | Gnome glade |
 > | **Region** | [[Shimmerwyld]] |
 > | **Population** | 36 |
+> | **Government** | Acephalous |
 > | **Ruler** | [[Florence Glimmerglade]] |
 > | **Peoples** | [[Inseore Gnomes]] |
 

@@ -8,6 +8,10 @@ publish: true
 > | **Type** | Place |
 > | **Kind** | Frontier town |
 > | **Region** | [[Saers]] |
+> | **Population** | 350 |
+> | **Government** | Duchy |
+> | **Ruler** | Civar Pollard |
+> | **Peoples** | Cosmopolitan |
 
 *A north-eastern frontier town beset upon by cultists*
 

@@ -8,6 +8,9 @@ publish: true
 > | **Type** | Place |
 > | **Kind** | Port town |
 > | **Region** | [[Hjirolis]] |
+> | **Population** | 1,000 |
+> | **Government** | Autocracy |
+> | **Peoples** | Humans (Hjiiran, Sjuvven) |
 
 *A small port-city that acts as access to ceropolis and the Hjirolis interior*
 

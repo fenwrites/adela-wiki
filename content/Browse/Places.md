@@ -35,18 +35,24 @@ Everywhere the party has been or heard of.
 
 ## Landmarks
 - [[Arshanta's Grove]] — Mythical center of the Shimmerwyld that is seemingly impossible to find
+- [[Bastion XIII]] — A crumbling bastion outside Oranos, with a hidden dungeon beneath it
+- [[High Peak]] — A massive mountain range on Ucaro
 - [[Leukotichos]] — A mountain range in northern Hjirolis, just north of Ankarnassas
 - [[Orronoké]] — A supervolcano and important cultural homeland of the Naltese peoples
 - [[Shimmerwyld]] — A massive magical forest filled with all manner of creatures and spirits
+- [[Suranon Agal]] — The Ancient Bridge of Stars, spanning the Danar river in Aghadan
 
 ## Cities & Regions
 - [[Almurbalarammi]] — Ancient ruin of 'silence' and site of a fight between cultists and the party
 - [[Ankarnassas]] — Capitol of Hjir nestled in mountain foothills and built on the lakeside ruins of ancient civilization
 - [[Ceropolis]] — Thriving port-adjacent center of agriculture and trade in Hjir
+- [[Hand of the Ice King]] — A hostile and frozen northern region said to hold great artifacts
+- [[Hasirothe]] — The Great Red, a lethal holy desert of iron sand in central Hasitoppe
 - [[Hasitoppe]] — Ancient and obstinate civilization of the dwarves
 - [[Loxos]] — A town in Hjirolis, governed by Archon Leagro Manilis
 - [[Oranos]] — An agricultural community that sees political deals due to its proximity to Ankarnassas
 - [[Pelethra]] — A small port-city that acts as access to ceropolis and the Hjirolis interior
+- [[Shal's Atoll]] — A legendary refuge for pirate and the like, said to move around the oceans
 - [[Tollen Boundary]] — A north-eastern frontier town beset upon by cultists
 - [[Topetki]] — A sprawling farming town in Hjirolis near the Orreni lands
 - [[Wardensport]] — A port-city of saers

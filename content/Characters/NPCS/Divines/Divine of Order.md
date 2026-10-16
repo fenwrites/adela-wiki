@@ -1,6 +1,10 @@
 ---
 aliases:
-  - Apolus
+  - "Apolus"
+  - "The Arbiter"
+  - "The Architect"
+  - "The Maker"
+  - "The Stifler"
 publish: true
 ---
 > [!infobox]
@@ -8,8 +12,12 @@ publish: true
 > |---|---|
 > | **Type** | Divine |
 > | **Domain** | Order |
-> | **Also known as** | Apolus |
-> | **Worshipped in** | [[Hjirolis]] |
+> | **Also known as** | Apolus, The Arbiter, The Architect, The Maker, The Stifler |
+> | **Manifested** | As Apolus, over the agora of [[Ankarnassas]] |
+> | **Official religion of** | [[Hjirolis]] (primary) |
+> | **Symbols** | Abstract hourglass, Staircase, abstracted staircase |
+> | **Sects / orders** | Ordinis Domos, Ordo Concordiae |
+> | **Patrons** | Lawmakers, Guards, Managers, Slavedrivers, Banks, Scientists (Sci. Method) |
 
 #divine
 [[List of Divines]]
@@ -23,3 +31,11 @@ Amid violent debates in the agora of [[Ankarnassas]] over war with the Sjuvven, 
 ## Branches of the Church
 - **Ordinis Domos**: the largest, most traditional and strictest branch, which revealed Apolus. Its seat stands in Elikos, in [[Ankarnassas]].
 - **Ordo Concordiae**: consensus-seeking mediators and lovers of debate, now in disarray.
+
+## Doctrine
+Strict hierarchies or methods of operation; the scientific method.
+
+## Notes
+A primary Divine of [[Hjirolis]]. "Stifler" is a derogatory nickname.
+
+

@@ -8,7 +8,10 @@ publish: true
 > | **Type** | Place |
 > | **Kind** | City |
 > | **Region** | [[Hjirolis]] |
+> | **Population** | 125,000 |
+> | **Government** | Autocracy |
 > | **Ruler** | [[Aoran Aurelius]] |
+> | **Peoples** | Humans (Hjiiran, Sjuvven) |
 
 *Thriving port-adjacent center of agriculture and trade in Hjir*
 

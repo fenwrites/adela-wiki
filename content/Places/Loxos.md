@@ -8,7 +8,10 @@ publish: true
 > | **Type** | Place |
 > | **Kind** | Town |
 > | **Region** | [[Hjirolis]] |
+> | **Population** | 80,000 |
+> | **Government** | Autocracy |
 > | **Ruler** | Leagro Manilis |
+> | **Peoples** | Humans (Hjiiran, Sjuvven) |
 
 *A town in Hjirolis, governed by Archon Leagro Manilis*
 

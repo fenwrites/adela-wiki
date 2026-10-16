@@ -156,7 +156,7 @@ const PLACE_KIND = { city: "City", nation: "Nation" }
 const BOX_FIELDS = {
   "Character": [["race", "Race"], ["role", "Role"], ["status", "Status"], ["location", "Based in"], ["affiliations", "Affiliations"]],
   "Player Character": [["race", "Race"], ["class", "Class"], ["location", "Hometown"]],
-  "Divine": [["domain", "Domain"], ["aliases", "Also known as"], ["worshipped", "Worshipped in"]],
+  "Divine": [["domain", "Domain"], ["aliases", "Also known as"], ["manifested", "Manifested"], ["official", "Official religion of"], ["symbol", "Symbols"], ["orders", "Sects / orders"], ["patrons", "Patrons"]],
   "Place": [["kind", "Kind"], ["region", "Region"], ["capital", "Capital"], ["population", "Population"], ["government", "Government"], ["ruler", "Ruler"], ["peoples", "Peoples"]],
   "Faction": [["kind", "Kind"], ["base", "Based in"], ["leader", "Leader"], ["race", "Members"]],
   "Event": [["status", "Status"], ["location", "Location"], ["when", "When"]],
@@ -175,7 +175,8 @@ function infobox(text) {
   const rows = [["Type", fm.kind && type === "Place" ? "Place" : type]]
   for (const [key, label] of BOX_FIELDS[type]) {
     const vals = (Array.isArray(fm[key]) ? fm[key] : [fm[key]]).filter((v) => v && !EMPTY.has(String(v).toLowerCase()))
-    if (vals.length) rows.push([label, vals.map((v) => capFirst(String(v)).replace(/\[\[([^\]|]+)\|[^\]]*\]\]/g, "[[$1]]").replace(/\|/g, "/")).join(", ")])
+    // keep link display text: a pipe inside a table cell must be escaped as \|
+    if (vals.length) rows.push([label, vals.map((v) => capFirst(String(v)).replace(/\|(?![^\[]*\]\])/g, "/").replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, "[[$1\\|$2]]")).join(", ")])
   }
   if (rows.length < 2 && type !== "Session") return ""
   return `> [!infobox]\n> | | |\n> |---|---|\n${rows.map(([k, v]) => `> | **${k}** | ${v} |`).join("\n")}\n\n`
@@ -184,7 +185,7 @@ function infobox(text) {
 for (const note of notes) {
   let text = cleanFrontmatter(note.text).replace(/%%[\s\S]*?%%/g, "").replace(/!?\[\[\s*\]\]/g, "")
   text = text.replace(/(!?)\[\[([^\]|#]+)(#[^\]|]*)?(\|[^\]]*)?\]\]/g, (all, bang, target, anchor = "", alias = "") => {
-    const t = target.trim()
+    const t = target.trim().replace(/\\$/, "") // links inside summary-box tables escape their pipe as \|
     if (bang) {
       const img = images.get(path.basename(t).toLowerCase())
       if (img) { usedImages.add(img); return all }

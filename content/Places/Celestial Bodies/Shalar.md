@@ -10,3 +10,6 @@ publish: true
 
 *Distant blue star*
 
+
+A nearby blue star. For a few weeks each winter it bathes Adela in a faint blue hue.
+

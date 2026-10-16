@@ -24,9 +24,8 @@ Everyone the party has met or heard of.
 - [[Glory Belle]] — Ex-mercenary captain of guard in Primon Boundary and proud mother of Garnet
 - [[Gord]] — Expert on the primon boundary delta and wise community member
 - [[Hypatia]] — Elderly teacher of Primon Boundary
-- [[Isadore]] — Tailor and concerned mother of Garnet
+- [[Isadora]] — Tailor and concerned mother of Garnet
 - [[Mahisakueu]] — Elderly, wise, and mystical matriarch of the Naltese
-- [[Nadra]]
 - [[Siobhan Hearth]] — Expert merchant brought in to deal with the Green Death frontier
 - [[Sorhan Malikan]] — Founder of Primon Boundary, effective leader of yore
 - [[Sterling Starlight II]] — Serious, troubled, and distant father to Klau

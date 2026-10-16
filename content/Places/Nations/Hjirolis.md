@@ -9,10 +9,10 @@ publish: true
 > | **Kind** | Nation |
 > | **Region** | [[Nosovae]] |
 > | **Capital** | [[Ankarnassas]] |
-> | **Population** | ~1,000,000 |
+> | **Population** | 1,000,000 |
 > | **Government** | Autocracy |
 > | **Ruler** | [[Autokrator Uluros IX]] |
-> | **Peoples** | Humans (Hjirrans, Sjuvven) |
+> | **Peoples** | Humans (Hjiiran, Sjuvven) |
 
 *Opportunistic order loving civilization of humans*
 
@@ -51,3 +51,15 @@ In the countryside, an estate's **Oikonomos** is its ruling landlord and the tow
 
 ## Religion
 The two patron Divines of Hjirolis are Order and History. Recently, the [[Divine of Order]] revealed itself and took the name Apolus.
+
+## Overview
+A militaristic, Greco-Roman-esque nation built on the ruins of a grand ancient civilization that is still being uncovered. Hjir worships the Divines of Order and History, has a robust school system for arcane magic, and keeps strict hierarchical divisions between classes and peoples. That strictness has eased over the past six decades, since the most subjugated class, the Sjuvven, rebelled and formed their own nation in the harsh wilds to the north. The chaos that followed was eventually calmed by the current Autokrator, [[Autokrator Uluros IX|Uluros IX]], but dissatisfaction has grown, as everyone has had to work harder to make up for the loss of the Sjuvven.
+
+Hjir borders the [[Shimmerwyld]] to the west but largely ignores it, embroiled in politics and in growing public sentiment that the Sjuvven should be conquered and subjugated again. A failed assassination attempt on the Autokrator has made war look inevitable.
+
+## Western Hjirolis
+![[Western Hjirolis Map.jpg]]
+
+The road north from [[Pelethra]] runs past [[Ceropolis]] on the Great Agadion Lake, through Ptelikon, [[Topetki]] and [[Loxos]] to [[Oranos]], and on toward [[Ankarnassas]]. Cumos lies to the east. Along the edge of the [[Shimmerwyld]] to the west lie the gnome glades: the Meadowglade, the [[Glimmerglade]], the [[Sunglade]], the Mossyglade and [[Stonyglade]].
+
+

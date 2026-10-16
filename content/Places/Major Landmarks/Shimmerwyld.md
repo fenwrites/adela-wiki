@@ -66,3 +66,8 @@ Aurora Birches: White-barked birch trees whose leaves glow with shifting colors 
 Thornmire Willows: Willow trees with long, thorny vines, often used by druids for defensive spells.
 Feyshade Oaks: Ancient oaks with purple-hued leaves, known to be favored by fey creatures.
 Ironbark Cedars: Trees with bark as tough as steel, often sought for armor and weapon crafting. These species thrive in the chaotic magic of the forest, each adapted uniquely to its mystical environment.
+
+## Map
+![[Primon and Shimmerwyld Map.jpg]]
+
+

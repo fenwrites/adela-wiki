@@ -37,3 +37,10 @@ Odrosal - Renewal
 ## Notes
 - The inscription is written in Old Common.
 - Nobody is sure who once lived here. One theory says the [[Naltese Peoples]] once lived in unison with the [[Shimmerwyld]], another that ancient humans thrived here.
+
+## The Nchuleft Map
+The party has a fairly accurate sketch of the map carved in Nchuleft: a vaguely Shimmerwyld-shaped region (it seems to extend into Saers and Hjirolis) with the twelve ruins marked.
+
+![[Nchuleft Ruin Map.jpg]]
+
+

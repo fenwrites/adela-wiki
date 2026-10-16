@@ -9,7 +9,9 @@ publish: true
 > | **Kind** | Capital city |
 > | **Region** | [[Hjirolis]] |
 > | **Population** | 350,000 |
+> | **Government** | Autocracy |
 > | **Ruler** | [[Autokrator Uluros IX]] |
+> | **Peoples** | Humans (Hjiiran, Sjuvven) |
 
 *Capitol of Hjir nestled in mountain foothills and built on the lakeside ruins of ancient civilization*
 
@@ -43,7 +45,7 @@ Ankarnassas is divided into seven holy districts. Elikos sits on the east side o
 - Opal Palace
 - Dikastirio (the High Court)
 - Ordinis Domos
-- Lyceum of Alcion (university)
+- Lyceum of Alcyon (university)
 - Stonerest
 
 ### Ankar

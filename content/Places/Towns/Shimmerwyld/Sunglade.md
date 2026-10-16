@@ -8,6 +8,8 @@ publish: true
 > | **Type** | Place |
 > | **Kind** | Gnome glade |
 > | **Region** | [[Shimmerwyld]] |
+> | **Population** | 100 |
+> | **Government** | Acephalous |
 > | **Ruler** | [[Agatha Sunglade]] |
 > | **Peoples** | [[Inseore Gnomes]] |
 

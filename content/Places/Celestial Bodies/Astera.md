@@ -10,3 +10,6 @@ publish: true
 
 *Moon*
 
+
+The larger of Adela's two moons, pale white.
+

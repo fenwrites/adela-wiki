@@ -23,3 +23,8 @@ Led near [[Primon Boundary]] by their chief, Lady Mahi ([[Mahisakueu]]), the Nal
 ## Customs
 - Naltechikakua, the adulthood rite, in which the young choose a spiritual path: Kamihak (Woodspath) or At'Aka (Tidewalk).
 - Naltese incense: when lit, those who breathe it smell the sea, can hold their breath for an hour, and grow features to help them swim.
+
+## Overview
+Indigenous island and coastal bugbears who lived on [[Nosovae]] long before the current nations formed. The islands off the southeastern coast are their home, and their holy grounds include the island chain formed by the supervolcano [[Orronoké]]. Over the years their peoples have diverged, some making their way through war, some joining other nations, some forming their own. They live life at a different pace than most (somewhat like [[Miskral]], whom they get along with), and they adapt well to living alongside expanding nations. Ultimately, though, their heart lies at sea.
+
+

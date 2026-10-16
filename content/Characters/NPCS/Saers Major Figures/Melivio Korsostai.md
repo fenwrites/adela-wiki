@@ -5,7 +5,7 @@ publish: true
 > | | |
 > |---|---|
 > | **Type** | Character |
-> | **Based in** | [[Saers (City)]] |
+> | **Based in** | [[Saers (City)\|Saers]] |
 
 #npc 
 [[Saers]]

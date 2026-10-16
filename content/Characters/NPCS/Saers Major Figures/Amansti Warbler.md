@@ -11,7 +11,7 @@ publish: true
 > | **Race** | Dragonborn |
 > | **Role** | Priest of Community |
 > | **Status** | Alive |
-> | **Based in** | [[Saers (City)]] |
+> | **Based in** | [[Saers (City)\|Saers]] |
 > | **Affiliations** | [[Divine of Community]], [[Saers]] |
 
 *Neutral-toned cleric to Community*

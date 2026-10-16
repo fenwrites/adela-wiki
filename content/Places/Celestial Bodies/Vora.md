@@ -10,3 +10,6 @@ publish: true
 
 *A moon*
 
+
+The smaller of Adela's two moons, dark green.
+
