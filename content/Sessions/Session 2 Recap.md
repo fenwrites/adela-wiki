@@ -1,0 +1,31 @@
+---
+description: The eve of the Choosing, and its first exams
+publish: true
+---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Session |
+> | **Session** | 2 |
+
+*The eve of the Choosing, and its first exams*
+
+# Recap
+On the night before The Choosing, [[Tharr Brirr|Tharr]] undertook Naltechikakua, the [[Naltése Peoples|Naltése]] adulthood rite, overseen by the elderly chieftain [[Mahisakueu]]. In the meditative rite he chose the At'Aka (Tidewalk), and faced its trial (Gaining +1 Wis).
+
+[[Klau]] and [[Delrek Hammersmak|Delrek]] attended a tense family dinner. Klau's father, [[Sterling Starlight II]], handed him a commission for ceremonial robes, to be made alongside the warm and talented rival tailor [[Isadora]] before the final Choosing ceremony on the 11th.
+
+The first day of The Choosing was a written and oral exam covering politics, magic, logic and religion. The second day offered a combat tournament.
+
+## People Met
+- [[Mahisakueu]], Naltése chieftain
+- [[Gord]]
+- [[Sterling Starlight II]], Klau's father
+- [[Isadora]], tailor
+- [[Finch]], a promising half-elf magic student
+
+## Places Visited
+- [[Primon Boundary]]
+
+> [!session-nav]
+> [[Session 1 Recap|← Previous Session]] [[Session 3 Recap|Next Session →]]

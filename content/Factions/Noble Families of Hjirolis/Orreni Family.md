@@ -1,0 +1,34 @@
+---
+description:
+publish: true
+---
+> [!infobox]
+> | | |
+> |---|---|
+> | **Type** | Faction |
+> | **Kind** | Noble family |
+> | **Based in** | [[Hjirolis]] |
+> | **Leader** | Dorameia Orreni |
+> | **Members** | Human |
+
+-Mikkos (Orreni steward)
+
+-Cyphus Orreni
+
+-Dorameia Orreni
+
+-Iocles Orreni
+
+## Overview
+A noble family of [[Hjirolis]] whose estate and farmland lie near the edge of the [[Shimmerwyld]]. The Oikonomos (head of the family and region) is Dorameia Orreni.
+
+## What Commoners Say
+An agricultural house, not thought about much, and considered good workers for the city and for order in general.
+
+## Members and Household
+- Thennos Orreni, the firstborn son and heir.
+- [[Cyphus Orreni]], who met the party in the Shimmerwyld while searching for his missing young nephew, Iocles, with his bugbear guard Graveltooth.
+- Estate staff: the steward Mikkos, the servant Eirini, the porter Petron, and Dryas, the family's event manager.
+
+## Activities and Rumours
+- [[Dotty Sunglade]] now works with the Orreni on behalf of the gnomes who left the Shimmerwyld.
