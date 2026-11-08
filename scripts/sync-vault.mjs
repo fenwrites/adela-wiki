@@ -185,6 +185,15 @@ function infobox(text) {
 
 for (const note of notes) {
   let text = cleanFrontmatter(note.text).replace(/%%[\s\S]*?%%/g, "").replace(/!?\[\[\s*\]\]/g, "")
+  // link to the newest published recap at the top of the home page
+  if (note.stem === "Home" && recapNumbers.length) {
+    const latest = recapNumbers[recapNumbers.length - 1]
+    const desc = frontmatter(notes.find((n) => n.stem === `Session ${latest} Recap`).text).description
+    const banner = `> **Latest session:** [[Session ${latest} Recap|Session ${latest}${desc ? `: ${desc}` : ""}]]
+
+`
+    text = text.replace(/^(---\r?\n[\s\S]*?\r?\n---\r?\n)?/, (fm) => fm + banner)
+  }
   // previous / next buttons on session recaps, from whichever recaps are published
   const recap = note.stem.match(/^Session (\d+) Recap$/)
   if (recap) {

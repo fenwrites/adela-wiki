@@ -2,6 +2,8 @@
 title: Adela
 publish: true
 ---
+> **Latest session:** [[Session 24 Recap|Session 24: A first night in Thema Pende]]
+
 Welcome to the player wiki for our campaign in the world of [[Adela]]. Everything here is something your characters know, or have at least heard. If it isn't on the wiki, you haven't found it yet.
 
 Use this wiki in good faith. I have tried to make sure it is spoiler free and all knowledge your characters could conceivably know, but it might not be perfect and your characters are not omniscient. I don't expect you to read all of the wiki, but it could be a good reminder for what is going on, who is involved, and what narrative threads you might want to explore.
