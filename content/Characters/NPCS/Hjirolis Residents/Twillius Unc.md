@@ -19,7 +19,7 @@ publish: true
 Tall, muscled and bald, with tattoos. Imposing to look at, but actually quite kind. Goes by Twunk.
 
 ## Summary
-A [[Sjuvven]] bar owner in Thema Pende, who runs the Tall Order, and a friend of [[Illesara Glimmerglade|Illy]]'s.
+A [[Sjuvven]] bar owner in Thema Pende, who runs [[The Tall Order|the Tall Order]], and a friend of [[Illesara Glimmerglade|Illy]]'s.
 
 ## Relationships
 - [[Illesara Glimmerglade|Illy]]: friend.

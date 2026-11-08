@@ -42,6 +42,7 @@ Everywhere the party has been or heard of.
 - [[Orronoké]] — A supervolcano and important cultural homeland of the Naltése peoples
 - [[Shimmerwyld]] — A massive magical forest filled with all manner of creatures and spirits
 - [[Suranon Agal]] — The Ancient Bridge of Stars, spanning the Danar river in Aghadan
+- [[The Tall Order]] — A rickety, creaking tavern stacked four wooden storeys high in Thema Pende
 
 ## Cities & Regions
 - [[Almurbalarammi]] — Ancient ruin and site of a fight between cultists and the party
