@@ -25,4 +25,4 @@ With night falling, the party found a mountainside stable just out of town to ho
 - [[Ankarnassas]]
 
 > [!session-nav]
-> [[Session 22 Recap|← Previous Session]]
+> [[Session 22 Recap|← Previous Session]] [[Session 24 Recap|Next Session →]]

@@ -35,6 +35,7 @@ A gnome of the [[Glimmerglade]], daughter of the schoolteacher [[Loette Glimmerg
 - **Escorting the gnomes** ([[Session 15 Recap|15]]): when [[Mona]] gave the gem to [[Tharr Brirr|Tharr]], [[Delrek Hammersmak|Delrek]] cast Command on Illy to stop her interfering. She fled, hid with Rope Trick and Invisibility, and tried to steal it back. It was eventually returned to her.
 - **Oranos** ([[Session 20 Recap|20]]): uncomfortable with [[Gyrobastille]]'s Binding of Knowledge, she cut off the toe the enchantment was laid on.
 - **The road to Ankarnassas** ([[Session 22 Recap|22]]): succumbed to the song of the [[Divine of Rhythm]]'s worshippers and felt a whisper of Divine connection.
+- **Thema Pende** ([[Session 24 Recap|24]]): reunited with [[Twillius Unc|Twunk]] at the Tall Order, and learned what he knows of [[Big Red]] and the [[Redwoods]].
 
 ## Relationships
 - [[Loette Glimmerglade]] and [[Thibido Stonyglade]]: her parents.

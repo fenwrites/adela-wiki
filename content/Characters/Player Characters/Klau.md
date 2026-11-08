@@ -35,6 +35,7 @@ Full name Sterling Starlight III, son of the tailor [[Sterling Starlight II]], t
 - **Almurbalarammi** ([[Session 12 Recap|12]]–[[Session 14 Recap|14]]): knocked unconscious, he dreamt of a cabin in a dark, rocky place where a family studied with the Chronicle open on their table ([[Session 12 Recap#Klau's Vision|Klau's Vision]]). He finished off [[Rami Ostensa]] with a frost bolt. Soon after, a girl named [[The Saracens|Elowen Saracen]] began writing to him in the Chronicle.
 - **Escorting the gnomes** ([[Session 15 Recap|15]]): soothed Tharr through his infernal dreams, and helped Henrietta Sunglade tailor robes.
 - **Oranos** ([[Session 20 Recap|20]]–[[Session 22 Recap|22]]): a nightmare took hold of his soul and walked him out to [[Bastion XIII]], where a harpy had bewitched him to bring her the Chronicle. In an ethereal place he met the Saracen family, who warned that the Divines sealed in the stars will return within seven years.
+- **Thema Pende** ([[Session 24 Recap|24]]): drove off [[Levi and Bram]] at camp with colour spray, then healed Levi and kept their ring for now. Found that what he writes in [[The Chronicle]] no longer disappears. Had Tharr knock him out in hopes of reaching the Saracens.
 
 ## Relationships
 - [[Delrek Hammersmak]]: stepbrother and lifelong friend.
@@ -47,6 +48,7 @@ Full name Sterling Starlight III, son of the tailor [[Sterling Starlight II]], t
 
 ## Notable Possessions
 - [[The Chronicle]], a blank book that writes back.
+- A ring taken from [[Levi and Bram]], for now.
 - A three-claw signature patch and Klau's Quills stamp mock-ups from Garnet.
 
 ## Ventures

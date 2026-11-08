@@ -33,3 +33,6 @@ In [[the Chronicle]], there are two footnotes on '1,200 years ago' (1,189), and 
 
 ## The Legend of Malikan, continued
 Malikan, an emerald dragon, made Cormac wait until his rations ran out, then found him meditating and invited him into a hoard of gems. *"All dragons have a great hoard. Do you?"* Cormac answered that he could, and asked a favour: a brass spear, oxidised to a beautiful green patina. Then he left the cave, unclipped his prized green cloak embroidered with an emerald dragon and the words "Our Breaths United", climbed to the peak, and in the morning buried his spear and claimed the entire land. Malikan said: *"You have given me much to ponder, that is a gift itself. Go and rest, and I will find you again soon."*
+
+## Recent Changes
+In Thema Pende, [[Klau]] found that the book seemed to hold less magic than before, and that what he wrote in it no longer disappeared ([[Session 24 Recap|Session 24]]).

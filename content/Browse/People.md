@@ -47,6 +47,7 @@ Everyone the party has met or heard of.
 ## Hjirolis
 - [[Aoran Aurelius]] — Archon of Ceropolis and lover of indulgement and arts
 - [[Autokrator Uluros IX]] — The current Autokrator of Hjirolis
+- [[Bardas Korvas]] — A no-nonsense moustached Astynomoi detective
 - [[Big Red]] — A rebel stirring up the poor of outer Ankarnassas
 - [[Cyphus Orreni]] — A wandering son of the Orreni family, searching for his missing nephew
 - [[Flavius Tellus]] — A gemstone magic expert at the Lyceum of Alcion
@@ -54,10 +55,12 @@ Everyone the party has met or heard of.
 - [[Gregori Ostensa]] — Named by Rami Ostensa as her father
 - [[Harronen Balkas]] — A black-market dealer in rare and forbidden books
 - [[Ionyra Asterides]] — A former brothel-keeper with fingers in many pots
+- [[Levi and Bram]] — A pair of would-be robbers outside Ankarnassas
 - [[Mr. Hannely]] — Illy's old teacher at the Lyceum, a gnome who left the Shimmerwyld behind
 - [[Othenios Vyrik]]
 - [[Quintus Maximus]] — A secretive envoy of Hjirolis
 - [[Siri Ostensa]] — Named by Rami Ostensa as her mother
+- [[Twillius Unc]] — An imposing but kind Sjuvven tavern owner, and a friend of Illesara
 - [[Warden Einori]] — The reed-thin head of the Growth chapter in Ankarnassas
 
 ## Inseore Gnomes

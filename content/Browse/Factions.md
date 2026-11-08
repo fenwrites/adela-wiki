@@ -26,6 +26,7 @@ Groups, guilds, peoples and noble houses.
 - [[Kleptonomoi]] — The officially sanctioned thieves of Ankarnassas, a frowned-upon part of doing business
 - [[Moraktonoi]] — The officially sanctioned assassins of Hjirolis
 - [[Naltése Peoples]] — Ancient group of bugbears that have lived on islands and coastlines for all of history
+- [[Redwoods]] — Dissidents of outer Ankarnassas fighting for the poor
 - [[Saers Mercantile Guild]] — Merchants guild of saers
 - [[Seanchai Guild]] — Storytellers guild of saers
 - [[Sjuvven]] — Tall, pale people once held as Hjirolis's legal underclass, now split between their own northern nation and the slums of Hjir

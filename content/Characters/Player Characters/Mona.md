@@ -30,6 +30,7 @@ Her family and the spirits are what she has come back to face.
 - **The Sunglade** ([[Session 14 Recap|14]]): [[Nettalytyn Nyx|Nettle]] took an interest in her as someone potentially possessing spirit powers.
 - **Escorting the gnomes** ([[Session 15 Recap|15]]): questioned everyone about their pasts. Nervous about [[Tharr Brirr|Tharr]]'s fixation on the green gemstone, she handed it to him, starting a rift with [[Illesara Glimmerglade|Illesara]].
 - **Bastion XIII** ([[Session 22 Recap|22]]): claimed the harpy leader's black spiked censer, which burns with green fire and smoke in her hands.
+- **Thema Pende** ([[Session 24 Recap|24]]): recognized a former stable boy from her family's estate at the Tall Order, and warned him to tell no one he had seen her.
 
 ## Relationships
 - [[Illesara Glimmerglade|Illesara]]: a fellow newcomer to the Primon three; the two have spirits in common.

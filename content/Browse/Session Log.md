@@ -28,3 +28,4 @@ What happened, session by session.
 - [[Session 21 Recap]] — Klau's nightmare, and the walk to the tower
 - [[Session 22 Recap]] — The harpy, Aromatica, and the road to Ankarnassas
 - [[Session 23 Recap]] — Arrival in Ankarnassas
+- [[Session 24 Recap]] — A first night in Thema Pende

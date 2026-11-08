@@ -40,6 +40,7 @@ Delrek was born under the [[Star Signs|Empress]] star sign.
 - **The Shimmerwyld** ([[Session 11 Recap|11]]–[[Session 15 Recap|15]]): cured himself and [[Mona]] of the blight, cleansed a root shrine to Arshanta, and saw a vision of cultists closing on the [[Sunglade]]. During the earthquake he tapped into Shimmer and partially transformed in front of his friends to shield the gnome caravan. [[Nettalytyn Nyx|Nettle]] took a keen interest in him as someone who holds both Divine and the power of Shimmer.
 - **Leaving the Shimmerwyld**: in a vision he was offered a way deeper into Shimmer's power and a way back home. He chose neither, and stayed on the edge between them.
 - **Hjirolis** ([[Session 16 Recap|16]]–[[Session 23 Recap|23]]): a letter from home brought news that Samira was sick with the [[Green Death Blight|Green Death]]. In [[Ankarnassas]] he met the local chapter of the Divine of Growth, and at least temporarily declined their request to fetch herbs from a nearby cavern.
+- **Thema Pende** ([[Session 24 Recap|24]]): put a hunter's mark on a robed man leaving the Tall Order, befriended the dwarven masons in Dwarvish, and told [[Bardas Korvas]] what he knew about the dead grammateus.
 
 ## Relationships
 - [[Klau]]: stepbrother and lifelong friend; the two have always had a pretty smooth relationship.

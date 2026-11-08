@@ -36,6 +36,7 @@ A [[Naltése Peoples|Naltése]] bugbear from the delta around [[Primon Boundary]
 - **Ceropolis** ([[Session 8 Recap|8]]): a shaven-headed monk working for infernal powers warned him that the consequences of his actions were coming, and left him unconscious.
 - **Escorting the gnomes** ([[Session 15 Recap|15]]): grew fixated on the green gemstone. In his dreams he was granted a review of his contract and met [[Murhz’egellaghorighhtz|Murhz]] and his imp, Bip, and talked Bip into an understanding: *"You scratch my back and I'll scratch yours."*
 - **Hjirolis** ([[Session 18 Recap|18]]–[[Session 23 Recap|23]]): hunted down Ezolio in [[Loxos]] as a favour to Bip. In [[Oranos]] he spent half a day getting a horse permit for Vauve.
+- **Thema Pende** ([[Session 24 Recap|24]]): was cut with a poisoned dagger by a robed man leaving the Tall Order, and gave [[Bardas Korvas]] a lightly edited account of the fight. Knocked Klau out at his request, and took the Chronicle.
 
 ## Relationships
 - [[Garnet Teimster]]: his merchant protégée, investing his gold in [[Ceropolis]]; she sends him ledgers and sewed him a scale patch.
